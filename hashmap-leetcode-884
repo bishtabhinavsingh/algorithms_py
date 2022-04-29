@@ -1,0 +1,23 @@
+#leet-code
+#884 Uncommon Words from Two Sentences
+
+class Solution:
+    def uncommonFromSentences(self, s1: str, s2: str) -> List[str]:
+        s1 = s1.split(" ")
+        s2 = s2.split(" ")
+        
+        s_dict = {}
+        
+        def appender(ls):
+            for i in ls:
+                if i in s_dict:
+                    s_dict[i] +=1
+                else:
+                    s_dict[i]=1
+            return s_dict
+        
+        appender(s1)
+        appender(s2)
+        
+        
+        return [x for x in s_dict if s_dict[x]<2]
