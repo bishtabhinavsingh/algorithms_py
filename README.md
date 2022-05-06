@@ -7,7 +7,7 @@
 - Stack(using Array)
 - Double Stack(using Arrays)
 - Linked list(singly, circular, doubly, doubly circular)
-- Heaps (https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+- Heaps[https://www.youtube.com/watch?v=t0Cq6tVNRBA]
 - Strings
 
 ## II. Non-Linear (Hierarchical) data strucrures- Operations & Applications
