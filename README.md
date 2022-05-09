@@ -1,9 +1,15 @@
 # Step 1: Data Structures
-## Stage 1: Learn basic DS
+
 <details open>
-<summary>## Stage 1: Learn basic DS</summary>
+<summary>
+  
+  ## Stage 1: Learn basic DS
+  
+  </summary>
 <br>
-- <n> Arrays </n>
+  
+  
+- Arrays
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
 - Hashsets
 - Queues
@@ -12,6 +18,8 @@
 - Heaps
 - Graph
 - Trees
+  
+  
 </details>
 
 
