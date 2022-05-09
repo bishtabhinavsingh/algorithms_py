@@ -23,7 +23,19 @@
 </details>
 
 
-## Stage 2: Deepers into DS
+
+
+<details open>
+<summary>
+  
+  
+  ## Stage 2: Deepers into DS
+  
+  
+    </summary>
+<br>
+  
+  
 ### I. Linear Data Structures - Operations and Applications
 
 - Arrays : Actions adding/inserting/deleting elements from front,end, in-between. traversing (displaying each element), searching& sorting, largest and smallest element. Once you understand the basic concepts of these actions on Arrays, unerstanding and implementing them on rest of the data structures will become very much easier.
@@ -45,7 +57,10 @@
 - [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list), [implementation](https://www.educative.io/edpresso/how-to-implement-a-graph-in-python)
 - Tables (Hashing Techniques)
 - Sets
------------------------
+  
+    
+</details>
+
 
 
 # Step 2: Algorithms
