@@ -20,3 +20,5 @@
 - [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list), [implementation](https://www.educative.io/edpresso/how-to-implement-a-graph-in-python)
 - Tables (Hashing Techniques)
 - Sets
+-----------------------
+- [Hashmaps](https://youtu.be/ea8BRGxGmlA)
