@@ -1,5 +1,8 @@
 # Step 1: Data Structures
 ## Stage 1: Learn basic DS
+<details open>
+<summary>## Stage 1: Learn basic DS</summary>
+<br>
 - Arrays
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
 - Hashsets
@@ -9,6 +12,8 @@
 - Heaps
 - Graph
 - Trees
+</details>
+
 
 ## Stage 2: Deepers into DS
 ### I. Linear Data Structures - Operations and Applications
