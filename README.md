@@ -3,7 +3,7 @@
 <details open>
 <summary>## Stage 1: Learn basic DS</summary>
 <br>
-- Arrays
+- <n> Arrays </n>
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
 - Hashsets
 - Queues
