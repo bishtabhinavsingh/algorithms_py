@@ -17,6 +17,6 @@
 - Binary Search Tree
 - AVL Tree
 - Red-Black Tree
-- [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list)
+- [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list), [implementation](https://www.educative.io/edpresso/how-to-implement-a-graph-in-python)
 - Tables (Hashing Techniques)
 - Sets
