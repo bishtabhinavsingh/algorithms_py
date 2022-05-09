@@ -22,3 +22,13 @@
 - Sets
 -----------------------
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
+
+# Step 2: Algorithms
+- BFS
+- DFS
+- Binary Sort
+- Quick Sort
+- [Merge Sort](https://www.journaldev.com/31541/merge-sort-algorithm-java-c-python)
+- Divide and Conquer
+- A*
+- Dynamic Programing
