@@ -72,3 +72,9 @@
 - Divide and Conquer
 - A*
 - Dynamic Programing
+
+------------
+
+# Resources
+
+-
