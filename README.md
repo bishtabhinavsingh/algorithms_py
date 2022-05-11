@@ -15,8 +15,8 @@
 - Queues
 - Linked List
 - Stacks
-- Heaps
-- Graph
+- [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+- [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list), [implementation](https://www.educative.io/edpresso/how-to-implement-a-graph-in-python)
 - Trees
   
   
