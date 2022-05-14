@@ -10,7 +10,7 @@
   
   
 - Arrays
-- [Hashmaps](https://youtu.be/ea8BRGxGmlA)
+- [Hashmaps](https://youtu.be/ea8BRGxGmlA), [hashmap implementation](https://github.com/bishtabhinavsingh/algorithms_py/blob/main/hashmap_implementation.ipynb)
 - Hashsets
 - Queues, [queues using stacks - leet 232](https://github.com/bishtabhinavsingh/algorithms_py/blob/main/queue_using_stacks-leetcode-232)
 - Linked List
