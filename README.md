@@ -12,7 +12,7 @@
 - Arrays
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
 - Hashsets
-- Queues
+- Queues, [leet example problem](https://github.com/bishtabhinavsingh/algorithms_py/blob/main/stack_using_queues-leetcode-225)
 - Linked List
 - Stacks
 - [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
