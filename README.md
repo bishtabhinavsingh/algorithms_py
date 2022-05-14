@@ -12,9 +12,9 @@
 - Arrays
 - [Hashmaps](https://youtu.be/ea8BRGxGmlA)
 - Hashsets
-- Queues, [leet example problem](https://github.com/bishtabhinavsingh/algorithms_py/blob/main/stack_using_queues-leetcode-225)
+- Queues
 - Linked List
-- Stacks
+- Stacks, [stack using queues - leet 255](https://github.com/bishtabhinavsingh/algorithms_py/blob/main/stack_using_queues-leetcode-225)
 - [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 - [Graphs](https://www.educative.io/edpresso/what-is-an-adjacency-list), [implementation](https://www.educative.io/edpresso/how-to-implement-a-graph-in-python)
 - Trees
