@@ -38,8 +38,7 @@
   
 ### I. Linear Data Structures - Operations and Applications
 
-- Arrays : Actions adding/inserting/deleting elements from front,end, in-between. traversing (displaying each element), searching& sorting, largest and smallest element. Once you understand the basic concepts of these actions on Arrays, unerstanding and implementing them on rest of the data structures will become very much easier.
-- Queue( using Array)
+- Queue(using Array)
 - Circular Queue (using Array)
 - Stack(using Array)
 - Double Stack(using Arrays)
