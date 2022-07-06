@@ -63,6 +63,7 @@
 
 
 # Step 2: Algorithms
+- [Two Pointer](https://www.codingninjas.com/blog/2021/07/20/what-is-a-two-pointer-technique/)
 - BFS
 - DFS
 - Binary Sort
